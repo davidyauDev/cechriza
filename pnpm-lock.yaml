@@ -58,6 +58,9 @@ importers:
       apexcharts:
         specifier: 3.54.1
         version: 3.54.1
+      axios:
+        specifier: ^1.9.0
+        version: 1.9.0
       chart.js:
         specifier: 4.4.7
         version: 4.4.7

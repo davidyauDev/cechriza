@@ -28,6 +28,7 @@
     "@vueuse/core": "10.11.1",
     "@vueuse/math": "10.11.1",
     "apexcharts": "3.54.1",
+    "axios": "^1.9.0",
     "chart.js": "4.4.7",
     "cookie-es": "1.2.2",
     "destr": "2.0.3",
@@ -94,6 +95,7 @@
     "eslint-plugin-sonarjs": "0.24.0",
     "eslint-plugin-unicorn": "51.0.1",
     "eslint-plugin-vue": "9.32.0",
+    "laravel-vite-plugin": "1.0",
     "msw": "2.3.4",
     "postcss-html": "1.7.0",
     "postcss-scss": "4.0.9",
@@ -116,8 +118,7 @@
     "vite-plugin-vuetify": "2.0.3",
     "vite-svg-loader": "5.1.0",
     "vue-shepherd": "3.0.0",
-    "vue-tsc": "2.1.10",
-    "laravel-vite-plugin": "1.0"
+    "vue-tsc": "2.1.10"
   },
   "resolutions": {
     "postcss": "^8",
