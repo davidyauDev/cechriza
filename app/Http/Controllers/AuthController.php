@@ -54,7 +54,7 @@ class AuthController extends Controller
             'accessToken' => $tokenResult->plainTextToken,
             'userData' => [
                 'id' => 1,
-                'fullName' => 'John Do2222e',
+                'fullName' => 'David Do2222e',
                 'username' => 'johndoe',
                 'avatar' => url('/images/avatars/avatar-1.png'),
                 'email' => 'admin@demo.com',
